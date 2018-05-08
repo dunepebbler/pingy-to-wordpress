@@ -13,12 +13,3 @@ Comes with own WP Menu script which can be edited to reflect your own menu setup
 ... This will be used for the WP template information
 * run `$ gulp start` to initialize the templating script
 ... The script wil generate a wordpress folder in the parent folder
-
-Your folder structure will look like this:
-
-Parent folder
- - html
- - Gulp---Pingy-pug-Stylus-to-WordPress (or whatever you've renamed it to)
- - wordpress (this wil contain your wordpress template code)
- 
-You can use `$ stylus -w styles/main.styl -o css/` to watch and compile your Stylus edits.
